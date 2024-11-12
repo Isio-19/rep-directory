@@ -1,6 +1,28 @@
 # rep-directory
 A repository that acts has a directory for all my public projects.
 
+## IA projects
+
+A [natual language processing](https://github.com/Isio-19/TraitementAutomatique) project which contains: 
+
+- classifies a tweet in 3 categories, weither it's positive, negative or neutral;
+- using the files generated in the previous part, trains a model (MLP) to predict the sentiment of a tweet;
+- using the word2vec tool made by Google, find the similarity between 2 words and the most similar words for a given word.
+
+A [protein structure prediction](https://github.com/Isio-19/approches_neuronales/tree/main/Esteve/TP1) model using either an MLP layer or a GRU layer.
+
+Attempt at finding the best hyperparameters for the MLP model.
+
+A [Ground Water Level](https://github.com/Isio-19/application-ia) model used to predict the GWL of underground water reserves depending the multiple variables.
+
+The model uses a LSTM layer. 
+
+Various experiments has been made on the model, such as fine-tuning the model on water wells from certain regions or simply fine-tuning the model of certain water wells.
+
+A [sonar scan classifier](https://github.com/Isio-19/approches_neuronales/tree/main/Torres) model that predicts weither a underwater sonar scan is a scan of a rock formation or a metal cylinder. 
+
+Uses the [Connectionist Bench dataset](https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks).
+
 ## Python projects
 
 [Minesweeper](https://github.com/Isio-19/Minesweeper/)
@@ -67,3 +89,4 @@ Work in progress.
 [Infographic course](https://github.com/Isio-19/Keyboard-Project/)
 
 Work done in the INF5071 course while studying abroad in UQàM.
+
