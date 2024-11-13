@@ -3,19 +3,19 @@ A repository that acts has a directory for all my public projects.
 
 ## IA projects
 
-A [natual language processing](https://github.com/Isio-19/TraitementAutomatique) project which contains: 
+A [natual language processing](https://github.com/Isio-19/TraitementAutomatique) project which: 
 
-- classifies a tweet in 3 categories, weither it's positive, negative or neutral;
-- using the files generated in the previous part, trains a model (MLP) to predict the sentiment of a tweet;
+- classifies a tweet in 3 categories, weither it's positive, negative or neutral and generate SVM files;
+- using the files generated in the previous part, trains a model (MLP) to predict the sentiment of a tweet using PyTorch;
 - using the word2vec tool made by Google, find the similarity between 2 words and the most similar words for a given word.
 
-A [protein structure prediction](https://github.com/Isio-19/approches_neuronales/tree/main/Esteve/TP1) model using either an MLP layer or a GRU layer.
+A [protein structure prediction](https://github.com/Isio-19/approches_neuronales/tree/main/Esteve/TP1) model using either an MLP layer or a GRU layer using PyTorch.
 
 Attempt at finding the best hyperparameters for the MLP model.
 
 A [Ground Water Level](https://github.com/Isio-19/application-ia) model used to predict the GWL of underground water reserves depending the multiple variables.
 
-The model uses a LSTM layer. 
+The model uses a LSTM layer with the PyTorch library. 
 
 Various experiments has been made on the model, such as fine-tuning the model on water wells from certain regions or simply fine-tuning the model of certain water wells.
 
@@ -37,6 +37,9 @@ An application to display weather information in the terminal.
 
 Using OpenWeatherMap's API, rich for the terminal interface and made using Agile method.
 
+[Lemmings-like](https://github.com/r-romettino/24h-pour-coder) game made during the first edition of a Game Jam like event (24h pour coder) organised by the University of Avignon. 
+
+The project uses the Pygame library for the GUI, as well as classes (OOP).
 
 ## C++ projects
 
@@ -44,13 +47,13 @@ Using OpenWeatherMap's API, rich for the terminal interface and made using Agile
 
 A file compressor, using Huffman coding to compress and decompress a file.
 
-[MacMahon tiles](https://github.com/Isio-19/macmahon/)
+[MacMahon tiles](https://github.com/Isio-19/MacMahon/)
 
 An executable to solve Mac Mahon tiles sets.
 
 Made using threads, different parallelisation processes (thread pool, for loop) and SDL2 for the GUI.
 
-[Quixo tabletop game](https://github.com/Isio-19/quixo/)
+[Quixo tabletop game](https://github.com/Isio-19/Quixo/)
 
 An implementation of the Quixo tabletop game. 
 
@@ -68,7 +71,7 @@ Using JavaFX for the user interface and an AI-controller player 2 for single pla
 
 An application not disimilar to Google Maps.
 
-Made using the OpenWeatherMap's API, JavaFX and speechbrain.
+Made using the OpenWeatherMap's API, JavaFX and Speechbrain.
 
 [Calendar](https://github.com/Isio-19/edt/)
 
@@ -86,7 +89,8 @@ Using KiCad 8 for the schematic and PCB design, ebastler's marbastlib for the va
 
 Work in progress.
 
-[Infographic course](https://github.com/Isio-19/Keyboard-Project/)
+[Infographic course](https://github.com/Isio-19/INF5071/)
 
 Work done in the INF5071 course while studying abroad in UQàM.
 
+Uses the GlSim.js library.
