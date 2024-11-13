@@ -1,6 +1,18 @@
 # rep-directory
 A repository that acts has a directory for all my public projects.
 
+## Table of contents
+
+1. [IA projects](#ia-projects)
+
+2. [Python projects](#python-projects)
+
+3. [C++ projects](#c-projects)
+
+4. [Java projects](#java-projects)
+
+5. [Other projects](#other-projects)
+
 ## IA projects
 
 A [natual language processing](https://github.com/Isio-19/TraitementAutomatique) project which: 
