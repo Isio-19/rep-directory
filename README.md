@@ -15,6 +15,8 @@ A repository that acts has a directory for all my public projects.
 
 ## IA projects
 
+A [computer vision](https://github.com/Isio-19/TraitementImage) introducing course in which I familiarised myself with OpenCV.
+
 A [natual language processing](https://github.com/Isio-19/TraitementAutomatique) project which: 
 
 - classifies a tweet in 3 categories, weither it's positive, negative or neutral and generate SVM files;
